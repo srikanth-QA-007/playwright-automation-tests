@@ -1,6 +1,6 @@
 # Playwright Automation Tests 
 
-Hi, I'm Srikanth — a QA Engineer passionate about test automation.
+Hi, I'm Srikanth a QA Engineer passionate about test automation.
 This repository contains my Playwright automation projects built using TypeScript.
 
 ##  Live Test Report
