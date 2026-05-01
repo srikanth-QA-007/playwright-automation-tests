@@ -5,7 +5,7 @@ This repository contains my Playwright automation projects built using TypeScrip
 
 ## 🔴 Live Test Report
 
- 👉 [Click here to view Test Execution Report](https://incomparable-empanada-45b9ae.netlify.app)
+ 👉 [Click here to view Test Execution Report](https://scintillating-kulfi-2c1ad2.netlify.app/)
 
 ## 🛠️ Tools & Technologies Used
 - Playwright
